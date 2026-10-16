@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="DeepSeek 对话导出助手">
+  <rect width="128" height="128" rx="28" fill="#4D6BFE"/>
+  <g fill="#FFFFFF">
+    <rect x="56" y="26" width="16" height="48" rx="1"/>
+    <path d="M64 90 L40 54 H88 Z"/>
+    <rect x="31" y="100" width="66" height="10" rx="1"/>
+  </g>
+</svg>

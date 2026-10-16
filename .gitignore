@@ -1,0 +1,19 @@
+# 参考项目：从 Edge 商店解包出来的第三方扩展，不属于本项目，不提交
+他山之石/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 打包产物
+*.zip
+*.crx
+*.pem
+
+# 本项目的脚本零依赖，这些都只是以防万一
+node_modules/
+__pycache__/
+*.pyc
